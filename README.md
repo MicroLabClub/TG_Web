@@ -13,4 +13,7 @@ Interfata conține patru compartimente:
 
 ## Utilizare
 
+Pornirea aplicatiei se face cu ajutorul comenzii _npm start_ din directoriul principal. 
+Ulterior aplicatia ruleaza pe portul 3000.
+ 
 Creat cu ajutorul ReactJS si multa motivatie pentru MicroLab
